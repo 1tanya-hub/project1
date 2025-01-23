@@ -1,8 +1,8 @@
 # project1
 
-# JARVIS - Your Python-Based Virtual Assistant
+# JARVIS - Python-Based Virtual Assistant
 
-**JARVIS** is a Python program inspired by Cortana and Jarvis that can be activated by a wake word and then analyze and respond to your commands.
+**JARVIS** is a Python program that can be activated by a wake word "JARVIS" and then analyze and respond to your commands.
 
 ## Installation
 
